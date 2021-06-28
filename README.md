@@ -6,3 +6,5 @@ ___
 - 📚 Student of Yandex.Praktikum.   
 - ♾ I'm in continuous practicing of programming.   
 - 💚 History / travelling / beauty of nature.
+___
+### My stack:
